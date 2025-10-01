@@ -1,0 +1,7 @@
+git config --global user.name "67160328"
+git config --global user.email "67160328@go.buu.ac.th"
+git clone https://github.com/67160328/OOP
+git add filename.xx
+git commit -m "Add filename.xx"
+git push
+
