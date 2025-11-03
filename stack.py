@@ -27,6 +27,7 @@ s.push(2)
 s.push(3)
 s.push(4)
 s.push(5)
+print("Is empty?",s.is_empty())
 
 print("Size after push:",s.size())
 print("Top element:", s.peek())
